@@ -6,3 +6,4 @@
 
 * [Coding Conventions](programming/coding-conventions.md)
 * [General Programming stuff](programming/general-programming-stuff.md)
+* [2024 Offseason](programming/2024-offseason.md)
