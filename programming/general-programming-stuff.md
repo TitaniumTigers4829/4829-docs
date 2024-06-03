@@ -23,16 +23,16 @@ Solenoids:
 
 Motors:
 
-* Classes: WPI\_TalonFX, WPI\_TalonSRX
+* Classes:  TalonFX, WPI\_TalonSRX
   * Mechanical-speak: Falcon/Falcon 500
-  * Programming speak: WPI\_TalonFX
+  * Programming speak: TalonFX
   * Mechanical-speak: Any other CTRE motor type (it will be connected to a talon SRX controller)
   * Programming speak: WPI\_TalonSRX
 * Imports:
-  * `import com.ctre.phoenix.motorcontrol.can.WPI_TalonFX;`
+  * `import com.ctre.phoenix6.hardware.TalonFX;`
   * `import com.ctre.phoenix.motorcontrol.can.WPI_TalonSRX;`
 * Initialization:
-  * `WPI_TalonFX motorFX = new WPI_TalonFX(motorPort);`
+  * `TalonFX motorFX = new TalonFX(motorPort);`
   * `WPI_TalonSRX motorSRX = new WPI_TalonSRX(motorPort);`
 * Usage (for both):
   * Speed:
