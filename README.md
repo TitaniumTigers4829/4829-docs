@@ -1,10 +1,6 @@
----
-description: Front page of the Docs
----
-
-# 4829 Docs
+# [4829 Docs](https://github.com/TitaniumTigers4829/4829-docs/wiki)
 
 * Programming
-  * [Coding Conventions](https://ishan.gitbook.io/titaniumtigers/programming/coding-conventions)
-  * [General Programming stuff](https://ishan.gitbook.io/titaniumtigers/programming/general-programming-stuff)
-  * [2024 Offseason](programming/2024-offseason.md)
+  * [Coding Conventions](https://github.com/TitaniumTigers4829/4829-docs/wiki/Coding-Conventions)
+  * [General Programming stuff]
+  * [2024 Offseason]
